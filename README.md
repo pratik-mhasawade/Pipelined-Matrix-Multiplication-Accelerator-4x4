@@ -61,7 +61,9 @@ Each MAC element consists of:
 ### Stage 1 – Multiplication
 - 4 parallel signed multipliers  
 - DSP48 inference  
-- Registered outputs  
+- Registered outputs
+
+  ![Stage1](Schematic_Design.png)
 
 ### Stage 2 – First-Level Adder Tree
 - Two parallel adders  
